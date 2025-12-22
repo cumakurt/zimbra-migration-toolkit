@@ -1514,14 +1514,6 @@ Bu script'ler Zimbra göçü amaçlı olduğu gibi sağlanmıştır. Kendi riski
 
 ---
 
-## 🤝 Contributing / Katkıda Bulunma
-
-Contributions, issues, and feature requests are welcome!
-
-Katkılar, sorunlar ve özellik istekleri memnuniyetle karşılanır!
-
----
-
 ## 📧 Support / Destek
 
 For issues or questions, please check the logs first:
@@ -1640,5 +1632,5 @@ Email import sırasında Ctrl+C'ye basarak durdurabilirsiniz:
 
 ---
 
-**Last Updated / Son Güncelleme**: 2025-01-20
+**Last Updated / Son Güncelleme**: 22/12/2025 
 
