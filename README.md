@@ -4,6 +4,8 @@
 
 Comprehensive scripts for migrating Zimbra mail server data between servers with advanced features including progress tracking, resume capability, and detailed logging.
 
+**Important Note / Önemli Not**: This application tool is based on and developed from the project at [https://github.com/hodfords/zimbra-migration](https://github.com/hodfords/zimbra-migration). The original project by Hodfords.com Ltd provided the foundation for this enhanced migration toolkit.
+
 ---
 
 ## 📋 Table of Contents / İçindekiler
